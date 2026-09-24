@@ -1,0 +1,6 @@
+{
+  "name": "AblePath - Accessible Wayfinding & Safety Guide",
+  "description": "Accessible neighborhood explorer, step-free route guidance, trusted helper check-in, and emergency SOS assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
